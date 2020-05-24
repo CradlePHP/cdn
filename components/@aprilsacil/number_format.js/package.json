@@ -1,0 +1,9 @@
+{
+  "name": "@aprilsacil/number_format.js",
+  "version": "1.0.1",
+  "description": "jQuery equivalent of number_format",
+  "main": "number_format.js",
+  "repository": "https://github.com/aprilsacil/number_format.git",
+  "author": "April Sacil <aprilvsacil@gmail.com>",
+  "license": "MIT"
+}

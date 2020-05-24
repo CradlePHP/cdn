@@ -1,0 +1,9 @@
+{
+  "name": "yarn-cropper",
+  "version": "0.0.1",
+  "description": "Programmatic Image Cropping",
+  "main": "cropper.js",
+  "repository": "https://github.com/cblanquera/cropper.git",
+  "author": "Christian Blanquera <cblanquera@openovate.com>",
+  "license": "MIT"
+}
