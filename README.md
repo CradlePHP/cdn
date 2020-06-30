@@ -1,2 +1,3 @@
 # cdn
-CradlePHP CDN
+
+CradlePHP CDN for light projects
