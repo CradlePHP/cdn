@@ -20,7 +20,7 @@
         "jquery": "^3.4.1",
         "jquery-knob": "^1.2.11",
         "jquery-sortable": "^0.9.13",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "npm": "^6.11.3",
         "open-sans-fontface": "^1.4.0",
         "papaparse": "^5.1.0",
